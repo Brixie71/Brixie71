@@ -1,16 +1,77 @@
-## Hi there 👋
+<!-- Paste this into: https://github.com/Brixie71/Brixie71/blob/main/README.md -->
 
-<!--
-**Brixie71/Brixie71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jhon%20Brix%20Brion&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Computer Engineering • Full‑Stack Developer • AI & Vision Systems</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=560&lines=Building+intelligent+systems;Computer+Vision+%7C+AI+%7C+Embedded;Turning+ideas+into+working+machines" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Brixie71"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://facebook.com/jbb.7102"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+## 🧠 About
+
+```txt
+I build practical, research‑driven systems that merge software, hardware, and intelligence.
+From AI vision pipelines to embedded machines, I focus on clean implementations
+and measurable results.
+```
+
+* 🎓 Computer Engineering
+* 🛠️ Full‑Stack (React • PHP) + Databases
+* 🤖 AI / Computer Vision + Embedded Systems
+* 🧪 Thesis‑oriented builds & prototypes
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,php,python,java,arduino,raspberrypi,opencv,postgres,mysql,git,github,linux&perline=7" />
+</p>
+
+---
+
+## 🧪 Featured Projects
+
+| Project                          | What it is                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------- |
+| 🪵 **Timber Testing Machine**    | Automated compressive / shear / flexural + moisture testing with logging & UI |
+| 👁️ **Face Recognition System**  | FaceApi.js + backend services + vector search (PGVector)                      |
+| 📐 **Vision Measurement System** | Camera‑based dimension measurement pipeline for wood specimens                |
+| 🌐 **Dashboards & Tools**        | React UI + PHP APIs + PostgreSQL systems                                      |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brixie71&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brixie71&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brixie71&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Improving **vision pipelines** (noise reduction, ROI stability, measurement accuracy)
+* Making **UI/UX** feel fast & reliable (forms, virtual keyboard, save flows)
+* Building **automation + logging** for real‑world testing machines
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>

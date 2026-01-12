@@ -66,12 +66,6 @@
 
 ## 📈 GitHub Analytics
 
-<!-- Animated Stats Cards -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brixie71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brixie71&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</p>
-
 <!-- Streak Stats with Animation -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brixie71&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
@@ -167,35 +161,3 @@ learning_path = {
 </p>
 
 ---
-
-## 🧠 Engineering Mindset
-
-<img align="left" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Jhon Brix G. Brion"
-        self.role = "SQA → Backend Developer"
-        self.location = "Tarlac City, Philippines"
-        self.mindset = [
-            "Quality before scale",
-            "APIs are contracts",
-            "Test-driven development",
-            "Hardware must fail safely",
-            "Simple systems last longer",
-            "Logs tell the truth"
-        ]
-    
-    def current_work(self):
-        return {
-            "company": "IT Company",
-            "position": "Software QA Engineer",
-            "focus": "Building testable backends",
-            "passion": "Industrial automation"
-        }
-    
-    def future_goals(self):
-        return "Backend Developer specializing in " \
-               "Python APIs & Industrial IoT systems"
-```
-

@@ -1,8 +1,7 @@
 
 <!-- Animated Wave Header with Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=JHON%20BRIX%20G.%20BRION&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Quality%20Systems%20|%20Backend%20|%20IoT&descAlignY=55&descSize=18" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&text=Jhon%20Brix%20G.%20Brion&reversal=false&textBg=false&fontAlign=50&fontSize=63&fontAlignY=44&animation=twinkling&desc=Software%20Quality%20Assurance%20Analyst%20|%20Backend%20Developer%20|%20Internet%20of%20Things&descSize=15">
 
 ## Frontend | Backend | Database | Internet of Things 
 

@@ -8,11 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Quality+Assurance+Engineer+%E2%9A%A1;Aspiring+Backend+Developer+%F0%9F%9A%80;Industrial+IoT+%7C+Arduino+Automation+%F0%9F%A4%96;Building+Reliable+Systems+with+Python+%26+PHP+%F0%9F%94%A7" alt="Typing SVG" />
 </p>
 
-<!-- Animated Snake eating contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Brixie71/Brixie71/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 <!-- Glowing Social Badges with Hover Effect -->
 <p align="center">
   <a href="https://github.com/Brixie71">
@@ -82,76 +77,32 @@
 
 ---
 
-## 📊 Animated Skill Progression Bars
+## 📊 Skills & Proficiency Levels
 
-<!-- Using animated GIF-style progress bars -->
-<details open>
-<summary><b>🎨 Front End Frameworks</b></summary>
-<br>
+### 🎨 Front End Frameworks
 
-**Quasar** (Vue Framework)
-<p>
-  <img src="https://progress-bar.dev/60?title=Proficiency&width=500&color=1976D2" />
-</p>
+| Technology | Proficiency | Level |
+|------------|-------------|-------|
+| ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white) | `████████░░` | 60% |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) | `█████████░` | 65% |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | `█████████░` | 70% |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | `██████████` | 75% |
 
-**Vue.js**
-<p>
-  <img src="https://progress-bar.dev/65?title=Proficiency&width=500&color=4FC08D" />
-</p>
+### ⚙️ Back End Frameworks
 
-**React**
-<p>
-  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=61DAFB" />
-</p>
+| Technology | Proficiency | Level |
+|------------|-------------|-------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | `██████████` | 75% |
+| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | `█████████░` | 70% |
+| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | `█████████░` | 65% |
+| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | `██████████` | 80% |
 
-**JavaScript**
-<p>
-  <img src="https://progress-bar.dev/75?title=Proficiency&width=500&color=F7DF1E" />
-</p>
+### 🗄️ Databases
 
-</details>
-
-<details open>
-<summary><b>⚙️ Back End Frameworks</b></summary>
-<br>
-
-**Python**
-<p>
-  <img src="https://progress-bar.dev/75?title=Proficiency&width=500&color=3776AB" />
-</p>
-
-**PHP**
-<p>
-  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=777BB4" />
-</p>
-
-**Laravel**
-<p>
-  <img src="https://progress-bar.dev/65?title=Proficiency&width=500&color=FF2D20" />
-</p>
-
-**Arduino Programming**
-<p>
-  <img src="https://progress-bar.dev/80?title=Proficiency&width=500&color=00979D" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-**PostgreSQL**
-<p>
-  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=336791" />
-</p>
-
-**MySQL**
-<p>
-  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=4479A1" />
-</p>
-
-</details>
+| Technology | Proficiency | Level |
+|------------|-------------|-------|
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | `█████████░` | 70% |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | `█████████░` | 70% |
 
 ---
 

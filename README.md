@@ -58,91 +58,9 @@
 
 ### 🎨 Front End Frameworks
 
-| Technology | Proficiency | Level |
-|------------|-------------|-------|
-| ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=quasar&logoColor=white) | `████████░░` | 60% |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) | `█████████░` | 65% |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | `█████████░` | 70% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | `██████████` | 75% |
-
 ### ⚙️ Back End Frameworks
 
-| Technology | Proficiency | Level |
-|------------|-------------|-------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | `██████████` | 75% |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) | `█████████░` | 70% |
-| ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) | `█████████░` | 65% |
-| ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) | `██████████` | 80% |
-
 ### 🗄️ Databases
-
-| Technology | Proficiency | Level |
-|------------|-------------|-------|
-| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | `█████████░` | 70% |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | `█████████░` | 70% |
-
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🪵 Timber Testing Machine
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Arduino-controlled hydraulic system with:
-- 📊 Pressure sensing & data logging
-- 🤖 Automated test sequences
-- 🖥️ Real-time monitoring UI
-- 📈 Analytics dashboard
-
-</td>
-<td width="50%">
-
-### 👁️ Face Recognition System
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-Advanced facial recognition with:
-- 🎯 FaceApi.js integration
-- 🔢 Vector similarity (PGVector)
-- ⚡ Real-time detection
-- 🔐 Secure authentication
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📐 Vision Measurement System
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Camera-based precision measurement:
-- 📷 ROI control & calibration
-- 🔧 Noise reduction algorithms
-- 📏 Sub-millimeter accuracy
-- 💾 Data export & reporting
-
-</td>
-<td width="50%">
-
-### 🏭 Industrial IoT Controls
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-Computer-Arduino automation for:
-- 🎛️ Sensor monitoring
-- 🔌 Relay & motor control
-- 📊 Data acquisition & logging
-- 🌐 Web-based dashboards
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -179,13 +97,13 @@ Computer-Arduino automation for:
 
 ### 🔥 2025 Objectives
 
-- [ ] 🎓 Complete advanced Python backend course
-- [ ] 🐳 Master Docker & containerization
-- [ ] ☁️ Learn cloud deployment (AWS/GCP)
-- [ ] 🔐 Study OAuth2 & JWT authentication
-- [ ] 📚 Contribute to 10+ open source projects
-- [ ] 🏗️ Build production-ready REST APIs
-- [ ] 🧪 Achieve 90%+ test coverage
+- [x] 🎓 Objective 1
+- [ ] 🐳 Objective 2
+- [ ] ☁️ Objective 3
+- [ ] 🔐 Objective 4
+- [ ] 📚 Objective 5
+- [ ] 🏗️ Objective 6
+- [ ] 🧪 Objective 7
 
 </td>
 <td width="50%" valign="top">
@@ -193,6 +111,7 @@ Computer-Arduino automation for:
 ### 🌱 Currently Learning
 ```python
 learning_path = {
+    "frontend": ["React", "Vue"],
     "backend": ["FastAPI", "Django REST"],
     "databases": ["Redis", "MongoDB"],
     "devops": ["Docker", "K8s basics"],
@@ -205,41 +124,6 @@ learning_path = {
 </td>
 </tr>
 </table>
-
----
-
-## 🧠 Engineering Mindset
-
-<img align="left" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Jhon Brix G. Brion"
-        self.role = "SQA → Backend Developer"
-        self.location = "Tarlac City, Philippines"
-        self.mindset = [
-            "Quality before scale",
-            "APIs are contracts",
-            "Test-driven development",
-            "Hardware must fail safely",
-            "Simple systems last longer",
-            "Logs tell the truth"
-        ]
-    
-    def current_work(self):
-        return {
-            "company": "IT Company",
-            "position": "Software QA Engineer",
-            "focus": "Building testable backends",
-            "passion": "Industrial automation"
-        }
-    
-    def future_goals(self):
-        return "Backend Developer specializing in " \
-               "Python APIs & Industrial IoT systems"
-```
-
-<br clear="left"/>
 
 ---
 
@@ -281,3 +165,37 @@ class SoftwareEngineer:
 <p align="center">
   <i>⭐️ From <a href="https://github.com/Brixie71">Brixie71</a> — Crafted with 💙 and Python</i>
 </p>
+
+---
+
+## 🧠 Engineering Mindset
+
+<img align="left" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Jhon Brix G. Brion"
+        self.role = "SQA → Backend Developer"
+        self.location = "Tarlac City, Philippines"
+        self.mindset = [
+            "Quality before scale",
+            "APIs are contracts",
+            "Test-driven development",
+            "Hardware must fail safely",
+            "Simple systems last longer",
+            "Logs tell the truth"
+        ]
+    
+    def current_work(self):
+        return {
+            "company": "IT Company",
+            "position": "Software QA Engineer",
+            "focus": "Building testable backends",
+            "passion": "Industrial automation"
+        }
+    
+    def future_goals(self):
+        return "Backend Developer specializing in " \
+               "Python APIs & Industrial IoT systems"
+```
+

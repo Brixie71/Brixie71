@@ -35,13 +35,14 @@
 ## 🎯 About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-```txt
+--- 
+
 🧠 SQA Engineer → Backend Developer
 🔍 Quality-first mindset: testability, reliability
 🏭 Arduino automation & Industrial IoT
 🗄️ Database-driven architecture enthusiast
 🚀 Building systems that scale and endure
-```
+
 
 - 🎓 **BS Computer Science** — Tarlac State University
 - 💼 **Software Quality Assurance Engineer** (Industry)

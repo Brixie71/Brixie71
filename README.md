@@ -1,145 +1,355 @@
-<!-- GitHub Profile README — Modern, glassy, recruiter-friendly -->
-
+<!-- Animated Wave Header with Gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=JHON%20BRIX%20G.%20BRION&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=280&section=header&text=JHON%20BRIX%20G.%20BRION&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Quality%20Systems%20|%20Backend%20|%20IoT&descAlignY=55&descSize=18" />
 </p>
 
+<!-- Multi-line Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Quality+Assurance+Engineer;Aspiring+Backend+Developer;Industrial+IoT+%7C+Arduino+Automation;Databases+%7C+APIs+%7C+Reliable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Quality+Assurance+Engineer+%E2%9A%A1;Aspiring+Backend+Developer+%F0%9F%9A%80;Industrial+IoT+%7C+Arduino+Automation+%F0%9F%A4%96;Building+Reliable+Systems+with+Python+%26+PHP+%F0%9F%94%A7" alt="Typing SVG" />
 </p>
 
+<!-- Animated Snake eating contributions -->
 <p align="center">
-  <a href="https://github.com/Brixie71"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://facebook.com/jbb.7102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/Brixie71/Brixie71/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<!-- Glowing Social Badges with Hover Effect -->
+<p align="center">
+  <a href="https://github.com/Brixie71">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub"/>
+  </a>
+  <a href="https://facebook.com/jbb.7102">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0866FF&color=0866FF" alt="Facebook"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!-- Animated Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brixie71&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Brixie71?label=Followers&style=for-the-badge&color=58A6FF&labelColor=1f2937" alt="Followers"/>
 </p>
 
 ---
 
-## 🧠 Profile
+## 🎯 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 ```txt
-SQA engineer transitioning into backend development.
-Quality-first mindset: testability, reliability, and production readiness.
-Hands-on experience with Arduino-based automation and industrial IoT-style control.
+🧠 SQA Engineer → Backend Developer
+🔍 Quality-first mindset: testability, reliability
+🏭 Arduino automation & Industrial IoT
+🗄️ Database-driven architecture enthusiast
+🚀 Building systems that scale and endure
 ```
 
-* 🎓 BS Computer Science — Tarlac State University
-* 🔍 Software Quality Assurance Engineer (industry)
-* 🔧 Backend & API Development (Python, PHP)
-* 🏭 Hardware / Industrial Applications (Computer ↔ Arduino automation)
-* 🗄️ Databases (PostgreSQL, MySQL)
+- 🎓 **BS Computer Science** — Tarlac State University
+- 💼 **Software Quality Assurance Engineer** (Industry)
+- 🔧 **Backend Focus:** Python, PHP, REST APIs
+- 🤖 **Hardware Integration:** Arduino ↔ Computer Automation
+- 🗄️ **Databases:** PostgreSQL, MySQL
+- 🌱 **Currently Learning:** Microservices, Docker, Cloud Architecture
+- 💡 **2025 Goal:** Transition fully into Backend Development
+
+<br clear="right"/>
 
 ---
 
-## 💼 What I Do (QA → Backend → Systems)
-
-* Design testable **business logic** and **API contracts**
-* Validate workflows with **integration / regression testing**
-* Build with **logging, observability, and failure handling**
-* Write **Arduino control code** for sensors, relays, motors, actuators
-* Integrate **hardware systems with computers** for automation & data acquisition
-
----
-
-## ⚙️ Tech Stack
+## 💻 Tech Stack & Animated Logos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql,git,github,linux,opencv,arduino,raspberrypi&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql&theme=dark&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,arduino,raspberrypi,opencv,electron&theme=dark&perline=8" />
+</p>
+
+<!-- Animated Tech Stack with Glow -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Skill Levels (Editable “Bars”)
+## 📊 Animated Skill Progression Bars
 
-GitHub sometimes blocks or rate-limits certain external progress-bar image services, which causes broken icons. This version uses **shields.io** (reliably proxied by GitHub).
+<!-- Using animated GIF-style progress bars -->
+<details open>
+<summary><b>🎨 Front End Frameworks</b></summary>
+<br>
 
-> To change your level, edit the **% number** in each badge.
+**Quasar** (Vue Framework)
+<p>
+  <img src="https://progress-bar.dev/60?title=Proficiency&width=500&color=1976D2" />
+</p>
+
+**Vue.js**
+<p>
+  <img src="https://progress-bar.dev/65?title=Proficiency&width=500&color=4FC08D" />
+</p>
+
+**React**
+<p>
+  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=61DAFB" />
+</p>
+
+**JavaScript**
+<p>
+  <img src="https://progress-bar.dev/75?title=Proficiency&width=500&color=F7DF1E" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>⚙️ Back End Frameworks</b></summary>
+<br>
+
+**Python**
+<p>
+  <img src="https://progress-bar.dev/75?title=Proficiency&width=500&color=3776AB" />
+</p>
+
+**PHP**
+<p>
+  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=777BB4" />
+</p>
+
+**Laravel**
+<p>
+  <img src="https://progress-bar.dev/65?title=Proficiency&width=500&color=FF2D20" />
+</p>
+
+**Arduino Programming**
+<p>
+  <img src="https://progress-bar.dev/80?title=Proficiency&width=500&color=00979D" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+**PostgreSQL**
+<p>
+  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=336791" />
+</p>
+
+**MySQL**
+<p>
+  <img src="https://progress-bar.dev/70?title=Proficiency&width=500&color=4479A1" />
+</p>
+
+</details>
+
+---
+
+## 🏆 Featured Projects
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">Front End Frameworks</h3>
-      <p align="center">
-        <!-- Quasar on top of Vue -->
-        <img alt="Quasar" src="https://img.shields.io/badge/Quasar-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2060%25-58A6FF?style=for-the-badge&logo=quasar&logoColor=white" /><br/>
-        <img alt="Vue" src="https://img.shields.io/badge/Vue.js-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2065%25-58A6FF?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br/>
-        <img alt="React" src="https://img.shields.io/badge/React-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=react&logoColor=white" /><br/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%2075%25-58A6FF?style=for-the-badge&logo=javascript&logoColor=white" />
-      </p>
-    </td>
-    
-<td width="33%" valign="top">
-  <h3 align="center">Back End Frameworks</h3>
-  <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%2075%25-58A6FF?style=for-the-badge&logo=python&logoColor=white" /><br/>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=php&logoColor=white" /><br/>
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2065%25-58A6FF?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
-    <img alt="Arduino Coding" src="https://img.shields.io/badge/Arduino%20Coding-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%2080%25-58A6FF?style=for-the-badge&logo=arduino&logoColor=white" />
-  </p>
-</td>
+<tr>
+<td width="50%">
 
-<td width="33%" valign="top">
-  <h3 align="center">Databases</h3>
-  <p align="center">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=mysql&logoColor=white" />
-  </p>
-</td>
-```
+### 🪵 Timber Testing Machine
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-  </tr>
+Arduino-controlled hydraulic system with:
+- 📊 Pressure sensing & data logging
+- 🤖 Automated test sequences
+- 🖥️ Real-time monitoring UI
+- 📈 Analytics dashboard
+
+</td>
+<td width="50%">
+
+### 👁️ Face Recognition System
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+Advanced facial recognition with:
+- 🎯 FaceApi.js integration
+- 🔢 Vector similarity (PGVector)
+- ⚡ Real-time detection
+- 🔐 Secure authentication
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📐 Vision Measurement System
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Camera-based precision measurement:
+- 📷 ROI control & calibration
+- 🔧 Noise reduction algorithms
+- 📏 Sub-millimeter accuracy
+- 💾 Data export & reporting
+
+</td>
+<td width="50%">
+
+### 🏭 Industrial IoT Controls
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+Computer-Arduino automation for:
+- 🎛️ Sensor monitoring
+- 🔌 Relay & motor control
+- 📊 Data acquisition & logging
+- 🌐 Web-based dashboards
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🧪 Featured Work
+## 📈 GitHub Analytics
 
-| Project                         | Snapshot                                                                                 |
-| ------------------------------- | ---------------------------------------------------------------------------------------- |
-| 🪵 **Timber Testing Machine**   | Arduino-controlled hydraulic system with pressure sensing, automated tests, logging & UI |
-| 👁️ **Face Recognition System** | FaceApi.js + backend services + vector similarity (PGVector)                             |
-| 📐 **Vision Measurement**       | Camera-based measurement with ROI control & noise reduction                              |
-| 🏭 **Industrial IoT Controls**  | Computer–Arduino automation for sensors, relays, motors & data acquisition               |
-| 🌐 **Dashboards & APIs**        | React frontends + PHP/Python backends (PostgreSQL / MySQL)                               |
+<!-- Animated Stats Cards -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brixie71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brixie71&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+</p>
+
+<!-- Streak Stats with Animation -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brixie71&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brixie71&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true" />
+</p>
+
+<!-- Trophy Animation -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brixie71&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🎯 Current Focus & Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brixie71&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brixie71&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brixie71&theme=tokyo-night&hide_border=true" />
-</p>
+### 🔥 2025 Objectives
 
----
+- [ ] 🎓 Complete advanced Python backend course
+- [ ] 🐳 Master Docker & containerization
+- [ ] ☁️ Learn cloud deployment (AWS/GCP)
+- [ ] 🔐 Study OAuth2 & JWT authentication
+- [ ] 📚 Contribute to 10+ open source projects
+- [ ] 🏗️ Build production-ready REST APIs
+- [ ] 🧪 Achieve 90%+ test coverage
 
-## 🧠 Mindset
+</td>
+<td width="50%" valign="top">
 
+### 🌱 Currently Learning
 ```python
-class Engineer:
-    def principles(self):
-        return [
-            "Quality before scale",
-            "APIs are contracts",
-            "Hardware must fail safely",
-            "Databases are system backbones",
-            "Simple systems last",
-        ]
+learning_path = {
+    "backend": ["FastAPI", "Django REST"],
+    "databases": ["Redis", "MongoDB"],
+    "devops": ["Docker", "K8s basics"],
+    "testing": ["Pytest", "Integration tests"],
+    "architecture": ["Microservices", "DDD"],
+    "hardware": ["Raspberry Pi", "MQTT"]
+}
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
+## 🧠 Engineering Mindset
+
+<img align="left" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Jhon Brix G. Brion"
+        self.role = "SQA → Backend Developer"
+        self.location = "Tarlac City, Philippines"
+        self.mindset = [
+            "Quality before scale",
+            "APIs are contracts",
+            "Test-driven development",
+            "Hardware must fail safely",
+            "Simple systems last longer",
+            "Logs tell the truth"
+        ]
+    
+    def current_work(self):
+        return {
+            "company": "IT Company",
+            "position": "Software QA Engineer",
+            "focus": "Building testable backends",
+            "passion": "Industrial automation"
+        }
+    
+    def future_goals(self):
+        return "Backend Developer specializing in " \
+               "Python APIs & Industrial IoT systems"
+```
+
+<br clear="left"/>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 </p>
 
+<p align="center">
+  💬 <b>Open to opportunities in Backend Development</b><br/>
+  🔍 Looking for projects involving Python, APIs, or Arduino IoT<br/>
+  📫 Best way to reach me: <a href="mailto:your.email@example.com">your.email@example.com</a><br/>
+  🌐 Let's build something amazing together!
+</p>
 
-<img
-  src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Quasar','Vue','React','JS'],datasets:[{label:'Front End',data:[60,65,70,75]}]},options:{legend:{display:false},scales:{yAxes:[{ticks:{beginAtZero:true,max:100}}]}}}"
-  alt="Front End Skill Chart"
-/>
+---
+
+## 💡 Fun Facts
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+
+- ⚡ I debug hardware with oscilloscopes
+- 🎮 Love system design challenges
+- 🔧 Built my first Arduino project at 19
+- 📚 Read tech docs for fun
+- 🤖 Dream: Fully automated smart home
+- 🎯 Believer in "measure twice, code once"
+
+<br clear="right"/>
+
+---
+
+<!-- Animated Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/Brixie71">Brixie71</a> — Crafted with 💙 and Python</i>
+</p>

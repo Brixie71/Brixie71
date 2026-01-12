@@ -76,11 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brixie71&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true" />
 </p>
 
-<!-- Trophy Animation -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brixie71&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</p>
-
 ---
 
 ## 🎯 Current Focus & Goals

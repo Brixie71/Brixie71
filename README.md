@@ -137,3 +137,9 @@ class Engineer:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
+
+
+<img
+  src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Quasar','Vue','React','JS'],datasets:[{label:'Front End',data:[60,65,70,75]}]},options:{legend:{display:false},scales:{yAxes:[{ticks:{beginAtZero:true,max:100}}]}}}"
+  alt="Front End Skill Chart"
+/>

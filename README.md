@@ -32,30 +32,6 @@
 
 ---
 
-## 🎯 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
---- 
-
-🧠 SQA Engineer → Backend Developer
-🔍 Quality-first mindset: testability, reliability
-🏭 Arduino automation & Industrial IoT
-🗄️ Database-driven architecture enthusiast
-🚀 Building systems that scale and endure
-
-
-- 🎓 **BS Computer Science** — Tarlac State University
-- 💼 **Software Quality Assurance Engineer** (Industry)
-- 🔧 **Backend Focus:** Python, PHP, REST APIs
-- 🤖 **Hardware Integration:** Arduino ↔ Computer Automation
-- 🗄️ **Databases:** PostgreSQL, MySQL
-- 🌱 **Currently Learning:** Microservices, Docker, Cloud Architecture
-- 💡 **2025 Goal:** Transition fully into Backend Development
-
-<br clear="right"/>
-
----
-
 ## 💻 Tech Stack & Animated Logos
 
 <p align="center">

@@ -13,9 +13,9 @@
 </div>
 
 <ul>
-  <li>🌍 Based in Luzon, Philippines</li>
-  <li>🔧 QA-driven engineer transitioning into backend & systems development</li>
-  <li>✉️ Reach me at <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+  <li>🌍 Based in Central Luzon, Philippines</li>
+  <li>🔧 Software Quality Assurance Analyst </li>
+  <li>✉️ Reach me at <a href="mailto:your.jbb7102@gmail.com">your.jbb7102@gmail.com</a></li>
 </ul>
 
 ---
@@ -101,8 +101,6 @@ GitHub sometimes blocks or rate-limits certain external progress-bar image servi
 
   </tr>
 </table>
-
----
 
 ---
 

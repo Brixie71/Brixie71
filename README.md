@@ -108,13 +108,10 @@ GitHub sometimes blocks or rate-limits certain external progress-bar image servi
 
 ## Experience & Technical Exposure
 
-<p align="left">
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,flask,fastapi,opencv,arduino,raspberrypi,postgresql,mysql" height="48" style="margin:8px;" />
-  <br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=react,vue,quasar,js,html,css,docker,git,github,linux" height="48" style="margin:8px;" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql,git,github,linux,opencv,arduino,raspberrypi&perline=7" />
 </p>
+
 
 <div align="center" height="165">
 

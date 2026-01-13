@@ -51,7 +51,7 @@ Hands-on experience with Arduino-based automation and industrial IoT-style contr
 
 * 🎓 Batchelor of Science, Major in Computer Science — Tarlac State University
 * 🔍 Software Quality Assurance Engineer (IT Industry)
-* 🎨 Frontend Development (React, Vue,HTML, CSS, Javascript)  
+* 🎨 Frontend Development (React, Vue, HTML, CSS, Javascript)  
 * 🔧 Backend & API Development (Python, PHP, Laravel)
 * 🏭 Hardware / Industrial Applications (Computer ↔ Arduino automation)
 * 🗄️ Databases (PostgreSQL, MySQL)

@@ -1,9 +1,11 @@
 <!-- ================= HEADER BANNER ================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,18&height=280&section=header&text=JHON%20BRIX%20G.%20BRION&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Quality%20Systems%20|%20Backend%20|%20IoT&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0EA5E9,100:14B8A6&height=280&section=header&text=JHON%20BRIX%20G.%20BRION&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Quality%20Systems%20|%20Backend%20|%20IoT&descAlignY=55&descSize=18" />
 </p>
 
 <!-- ================= TYPING INTRO ================= -->
+
 <div align="left">
 <h2 align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=2DD4BF&vCenter=true&width=520&lines=Software+Quality+Assurance+Engineer;Backend+Developer+in+Progress;Industrial+IoT+%7C+Arduino+Automation" alt="Typing SVG" />
@@ -30,7 +32,7 @@
 
 <div align="center" height="165">
 
-[![Brixie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brixie71&theme=github-compact)](https://github.com/Brixie71)
+[![Brixie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brixie71\&theme=github-compact)](https://github.com/Brixie71)
 
 </div>
 
@@ -41,7 +43,7 @@
 </div>
 
 <!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,18&height=150&section=footer&animation=fadeIn" />
-</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0EA5E9,100:0B1020&height=150&section=footer&animation=fadeIn" />
+</p>

@@ -6,7 +6,7 @@
 
 <!-- ================= TYPING INTRO ================= -->
 
-<div align="left">
+<div align="center">
 <h2 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=2DD4BF&vCenter=true&width=520&lines=Software+Quality+Assurance;Junior+Backend+Developer;Industrial+IoT+%7C+Automation" alt="Typing SVG" />
 </h2>

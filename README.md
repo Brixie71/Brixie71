@@ -8,7 +8,7 @@
 
 <div align="left">
 <h2 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=2DD4BF&vCenter=true&width=520&lines=Software+Quality+Assurance+Analyst;Backend+Developer+in+Progress;Industrial+IoT+%7C+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=2DD4BF&vCenter=true&width=520&lines=Software+Quality+Assurance;Backend+Developer+in+Progress;Industrial+IoT+%7C+Automation" alt="Typing SVG" />
 </h2>
 </div>
 

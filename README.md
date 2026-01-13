@@ -15,14 +15,14 @@
 <ul>
   <li>🌍 Based in Central Luzon, Philippines</li>
   <li>🔧 Software Quality Assurance Analyst </li>
-  <li>✉️ Reach me at <a href="mailto:your.jbb7102@gmail.com">your.jbb7102@gmail.com</a></li>
+  <li>✉️ Reach me at <a href="mailto:jbb7102@gmail.com">jbb7102@gmail.com</a></li>
 </ul>
 
 ---
 <p align="center">
   <a href="https://github.com/Brixie71"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
   <a href="https://facebook.com/jbb.7102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jbb7102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,26 +30,18 @@
 ## 🧠 Profile
 
 ```txt
-SQA engineer transitioning into backend development.
+SQA Analyst and into Backend Development.
+Experiance in technical documentations in testing, monitoring, and creating instructional materials for client needs.
 Quality-first mindset: testability, reliability, and production readiness.
 Hands-on experience with Arduino-based automation and industrial IoT-style control.
 ```
 
-* 🎓 BS Computer Science — Tarlac State University
-* 🔍 Software Quality Assurance Engineer (industry)
-* 🔧 Backend & API Development (Python, PHP)
+* 🎓 Batchelor of Science, Major in Computer Science — Tarlac State University
+* 🔍 Software Quality Assurance Engineer (IT Industry)
+* 🎨 Frontend Development (React, Vue,HTML, CSS, Javascript)  
+* 🔧 Backend & API Development (Python, PHP, Laravel)
 * 🏭 Hardware / Industrial Applications (Computer ↔ Arduino automation)
 * 🗄️ Databases (PostgreSQL, MySQL)
-
----
-
-## 💼 What I Do (QA → Backend → Systems)
-
-* Design testable **business logic** and **API contracts**
-* Validate workflows with **integration / regression testing**
-* Build with **logging, observability, and failure handling**
-* Write **Arduino control code** for sensors, relays, motors, actuators
-* Integrate **hardware systems with computers** for automation & data acquisition
 
 ---
 

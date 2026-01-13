@@ -20,9 +20,13 @@
 
 <div align="center" height="165">
 
+## Contributions in the past 30 days
+
 [![Brixie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brixie71\&theme=github-compact)](https://github.com/Brixie71)
 
 </div>
+
+## Home Base
 
 <ul>
   <li>🌍 Based in Central Luzon, Philippines</li>
@@ -36,7 +40,7 @@
   <a href="mailto:jbb7102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 🧠 Profile
+## 🧠 Positive Identification Profile
 
 ```txt
 SQA Analyst and into Backend Development.
@@ -52,7 +56,7 @@ Hands-on experience with Arduino-based automation and industrial IoT-style contr
 * 🏭 Hardware / Industrial Applications (Computer ↔ Arduino automation)
 * 🗄️ Databases (PostgreSQL, MySQL)
 
-## 📊 Skill Levels
+## 📊 Development Skill Levels
 
 <table>
   <tr>

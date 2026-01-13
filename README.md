@@ -50,8 +50,6 @@ Hands-on experience with Arduino-based automation and industrial IoT-style contr
 
 GitHub sometimes blocks or rate-limits certain external progress-bar image services, which causes broken icons. This version uses **shields.io** (reliably proxied by GitHub).
 
-> To change your level, edit the **% number** in each badge.
-
 <table>
   <tr>
     <td width="33%" valign="top">

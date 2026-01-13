@@ -2,9 +2,6 @@
 <!-- Animated Wave Header with Gradient -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&text=Jhon%20Brix%20G.%20Brion&reversal=false&textBg=false&fontAlign=50&fontSize=63&fontAlignY=44&animation=twinkling&desc=Software%20Quality%20Assurance%20Analyst%20|%20Backend%20Developer%20|%20Internet%20of%20Things&descSize=15">
-
-## Frontend | Backend | Database | Internet of Things 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql&theme=dark&perline=8" />
   <br/>

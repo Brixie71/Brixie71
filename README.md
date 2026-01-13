@@ -31,8 +31,15 @@
 <ul>
   <li>🌍 Based in Central Luzon, Philippines</li>
   <li>🔧 Software Quality Assurance Analyst </li>
-  <li>✉️ Reach me at ```txt jbb7102@gmail.com```
+  <li>💻 Junior Backend Developer </li>
+  <li>✉️ Reach me at :
+    
+  ```txt
+  jbb7102.work@gmail.com
+  ```
+  </li>
 </ul>
+
 
 <p align="left">
   <a href="https://github.com/Brixie71"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>

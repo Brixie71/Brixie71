@@ -71,28 +71,28 @@ and creating instructional materials for client needs.
       <h3 align="center">Front End Frameworks</h3>
       <p align="left">
         <!-- Quasar on top of Vue -->
-        <img alt="Quasar" src="https://img.shields.io/badge/Quasar-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2060%25-58A6FF?style=for-the-badge&logo=quasar&logoColor=white" /><br/>
-        <img alt="Vue" src="https://img.shields.io/badge/Vue.js-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2065%25-58A6FF?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br/>
-        <img alt="React" src="https://img.shields.io/badge/React-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=react&logoColor=white" /><br/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%2075%25-58A6FF?style=for-the-badge&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Quasar-▰▰▰▰▱▱▱▱▱▱ 60%25-58A6FF?style=for-the-badge&logo=quasar&logoColor=white&logoWidth=30" /><br/>
+        <img src="https://img.shields.io/badge/Vue.js-▰▰▰▰▰▱▱▱▱▱ 65%25-58A6FF?style=for-the-badge&logo=vuedotjs&logoColor=white&logoWidth=30" /><br/>
+        <img src="https://img.shields.io/badge/React-▰▰▰▰▰▰▱▱▱▱ 70%25-58A6FF?style=for-the-badge&logo=react&logoColor=white&logoWidth=30" /><br/>
+        <img src="https://img.shields.io/badge/JavaScript-▰▰▰▰▰▰▰▱▱▱ 75%25-58A6FF?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=30" />
       </p>
     </td>
     
 <td width="33%" valign="top">
   <h3 align="center">Back End Frameworks</h3>
   <p align="left">
-    <img alt="Python" src="https://img.shields.io/badge/Python-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%2075%25-58A6FF?style=for-the-badge&logo=python&logoColor=white" /><br/>
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=php&logoColor=white" /><br/>
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2065%25-58A6FF?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
-    <img alt="Arduino Coding" src="https://img.shields.io/badge/Arduino%20Coding-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%2080%25-58A6FF?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-▰▰▰▰▰▰▰▱▱▱ 75%25-58A6FF?style=for-the-badge&logo=python&logoColor=white&logoWidth=28" /><br/>
+    <img src="https://img.shields.io/badge/PHP-▰▰▰▰▰▰▱▱▱▱ 70%25-58A6FF?style=for-the-badge&logo=php&logoColor=white&logoWidth=28" /><br/>
+    <img src="https://img.shields.io/badge/Laravel-▰▰▰▰▰▱▱▱▱▱ 65%25-58A6FF?style=for-the-badge&logo=laravel&logoColor=white&logoWidth=28" /><br/>
+    <img src="https://img.shields.io/badge/Arduino Coding-▰▰▰▰▰▰▰▰▱▱ 80%25-58A6FF?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=28" />
   </p>
 </td>
 
 <td width="33%" valign="top">
   <h3 align="center">Databases</h3>
   <p align="left">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-▰▰▰▰▰▰▱▱▱▱ 70%25-58A6FF?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=28" /><br/>
+    <img src="https://img.shields.io/badge/MySQL-▰▰▰▰▰▰▱▱▱▱ 70%25-58A6FF?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=28" />
   </p>
 </td>
   </tr>

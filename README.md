@@ -69,7 +69,7 @@ and creating instructional materials for client needs.
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Front End Frameworks</h3>
-      <p align="center">
+      <p align="left">
         <!-- Quasar on top of Vue -->
         <img alt="Quasar" src="https://img.shields.io/badge/Quasar-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2060%25-58A6FF?style=for-the-badge&logo=quasar&logoColor=white" /><br/>
         <img alt="Vue" src="https://img.shields.io/badge/Vue.js-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2065%25-58A6FF?style=for-the-badge&logo=vuedotjs&logoColor=white" /><br/>
@@ -80,7 +80,7 @@ and creating instructional materials for client needs.
     
 <td width="33%" valign="top">
   <h3 align="center">Back End Frameworks</h3>
-  <p align="center">
+  <p align="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%2075%25-58A6FF?style=for-the-badge&logo=python&logoColor=white" /><br/>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=php&logoColor=white" /><br/>
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2065%25-58A6FF?style=for-the-badge&logo=laravel&logoColor=white" /><br/>
@@ -90,7 +90,7 @@ and creating instructional materials for client needs.
 
 <td width="33%" valign="top">
   <h3 align="center">Databases</h3>
-  <p align="center">
+  <p align="left">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=mysql&logoColor=white" />
   </p>

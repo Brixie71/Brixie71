@@ -25,8 +25,6 @@
   <a href="mailto:jbb7102@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
 ## 🧠 Profile
 
 ```txt
@@ -50,8 +48,6 @@ Hands-on experience with Arduino-based automation and industrial IoT-style contr
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql,git,github,linux,opencv,arduino,raspberrypi&perline=7" />
 </p>
-
----
 
 ## 📊 Skill Levels (Editable “Bars”)
 
@@ -93,8 +89,6 @@ GitHub sometimes blocks or rate-limits certain external progress-bar image servi
 
   </tr>
 </table>
-
----
 
 ## Experience & Technical Exposure
 

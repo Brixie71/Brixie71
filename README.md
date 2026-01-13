@@ -18,7 +18,7 @@
   <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql,git,github,linux,opencv,arduino,raspberrypi&perline=7" />
 </p>
 
-<div align="center" height="165">
+<div align="left" height="165">
 
 ## Contributions in the past 30 days
 

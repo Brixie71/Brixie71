@@ -49,13 +49,14 @@
 ## 🧠 Positive Identification Profile
 
 ```txt
-SQA Analyst and into Backend Development.
-Experiance in technical documentations in testing, monitoring, and creating instructional materials for client needs.
-Quality-first mindset: testability, reliability, and production readiness.
-Hands-on experience with Arduino-based automation and industrial IoT-style control.
+> SQA Analyst and into Backend Development.
+> Experiance in Software Quality Assurance, particularly in technical documentations in testing, monitoring,
+and creating instructional materials for client needs.
+> Quality-first mindset: testability, reliability, and production readiness.
+> Hands-on experience with Arduino-based automation and Industrial IoT-style control. (Computer Engineering)
 ```
 
-* 🎓 Batchelor of Science, Major in Computer Science — Tarlac State University
+* 🎓 Batchelor of Science, Major in Computer Science — Tarlac State University, College of Computer Studies (Batch 2024)
 * 🔍 Software Quality Assurance Engineer (IT Industry)
 * 🎨 Frontend Development (React, Vue, HTML, CSS, Javascript)  
 * 🔧 Backend & API Development (Python, PHP, Laravel)

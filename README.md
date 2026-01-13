@@ -12,6 +12,18 @@
 </h2>
 </div>
 
+## Experience & Technical Exposure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql,git,github,linux,opencv,arduino,raspberrypi&perline=7" />
+</p>
+
+<div align="center" height="165">
+
+[![Brixie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brixie71\&theme=github-compact)](https://github.com/Brixie71)
+
+</div>
+
 <ul>
   <li>🌍 Based in Central Luzon, Philippines</li>
   <li>🔧 Software Quality Assurance Analyst </li>
@@ -40,15 +52,7 @@ Hands-on experience with Arduino-based automation and industrial IoT-style contr
 * 🏭 Hardware / Industrial Applications (Computer ↔ Arduino automation)
 * 🗄️ Databases (PostgreSQL, MySQL)
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql,git,github,linux,opencv,arduino,raspberrypi&perline=7" />
-</p>
-
-## 📊 Skill Levels (Editable “Bars”)
-
-GitHub sometimes blocks or rate-limits certain external progress-bar image services, which causes broken icons. This version uses **shields.io** (reliably proxied by GitHub).
+## 📊 Skill Levels
 
 <table>
   <tr>
@@ -84,19 +88,6 @@ GitHub sometimes blocks or rate-limits certain external progress-bar image servi
 
   </tr>
 </table>
-
-## Experience & Technical Exposure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,react,vue,postgres,mysql,git,github,linux,opencv,arduino,raspberrypi&perline=7" />
-</p>
-
-
-<div align="center" height="165">
-
-[![Brixie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brixie71\&theme=github-compact)](https://github.com/Brixie71)
-
-</div>
 
 <div align="center">
   <!-- GitHub Profile Summary Cards -->

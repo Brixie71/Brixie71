@@ -46,12 +46,13 @@
   <a href="https://facebook.com/jbb.7102"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-## 🧠 Positive Identification Profile
+## 🧠 Experience
 
 ```txt
 > SQA Analyst and into Backend Development.
-> Experiance in Software Quality Assurance, particularly in technical documentations in testing, monitoring,
+> Experience in Software Quality Assurance, particularly in technical documentations in testing, monitoring,
 and creating instructional materials for client needs.
+> Experience in Backend Development, particularly in PHP, Python, Java, API Endpoints.
 > Quality-first mindset: testability, reliability, and production readiness.
 > Hands-on experience with Arduino-based automation and Industrial IoT-style control. (Computer Engineering)
 ```

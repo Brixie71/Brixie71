@@ -95,8 +95,6 @@ and creating instructional materials for client needs.
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B0%E2%96%B1%E2%96%B1%E2%96%B1%E2%96%B1%2070%25-58A6FF?style=for-the-badge&logo=mysql&logoColor=white" />
   </p>
 </td>
-```
-
   </tr>
 </table>
 

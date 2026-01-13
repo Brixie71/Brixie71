@@ -69,7 +69,7 @@ and creating instructional materials for client needs.
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Front End Frameworks</h3>
+      <h3 align="center">Frontend Frameworks</h3>
       <p align="left">
         <!-- Quasar on top of Vue -->
         <img src="https://img.shields.io/badge/Quasar-▰▰▰▰▱▱▱▱▱▱ 60%25-58A6FF?style=for-the-badge&logo=quasar&logoColor=white&logoWidth=30" /><br/>
@@ -80,7 +80,7 @@ and creating instructional materials for client needs.
     </td>
     
 <td width="33%" valign="top">
-  <h3 align="center">Back End Frameworks</h3>
+  <h3 align="center">Backend Frameworks</h3>
   <p align="left">
     <img src="https://img.shields.io/badge/Python-▰▰▰▰▰▰▰▱▱▱ 75%25-58A6FF?style=for-the-badge&logo=python&logoColor=white&logoWidth=28" /><br/>
     <img src="https://img.shields.io/badge/PHP-▰▰▰▰▰▰▱▱▱▱ 70%25-58A6FF?style=for-the-badge&logo=php&logoColor=white&logoWidth=28" /><br/>

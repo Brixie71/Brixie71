@@ -15,7 +15,7 @@
 ## Experience & Technical Exposure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,java,laravel,php,html,css,tailwind,js,react,vue,postgres,mysql,git,github,linux,ubuntu,docker,arduino,raspberrypi,discord,discordjs&perline=10" />
+  <img src="https://skillicons.dev/icons?i=electron,python,anaconda,java,laravel,php,html,css,tailwind,js,react,vue,postgres,mysql,git,github,linux,ubuntu,docker,arduino,raspberrypi,discord,discordjs&perline=10" />
 </p>
 
 <div align="left" height="165">

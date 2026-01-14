@@ -3,15 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0EA5E9,100:14B8A6&height=280&section=header&text=JHON%20BRIX%20G.%20BRION&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20|%20Backend%20Developer%20|%20Internet%20of%20Things%20(IoT)&descAlignY=55&descSize=18" />
 </p>
-
-<!-- ================= TYPING INTRO ================= -->
-
-<div align="left">
-<h1 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2600&pause=900&color=2DD4BF&vCenter=true&width=520&lines=Software+Quality+Assurance;Junior+Backend+Developer;Industrial+IoT+%7C+Automation" alt="Typing SVG" />
-</h1>
-</div>
-
 ## Experience & Technical Exposure
 
 <p align="center">

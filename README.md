@@ -22,7 +22,7 @@
 
 ## Contributions in the past 30 days
 
-[![Brixie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brixie71\&theme=github-compact)](https://github.com/Brixie71)
+[![Brix's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brixie71\&theme=github-compact)](https://github.com/Brixie71)
 
 </div>
 

@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=electron,python,anaconda,java,laravel,php,html,css,tailwind,js,react,vue,nodejs,postgres,mysql,fastapi,git,github,linux,ubuntu,docker,arduino,raspberrypi,discord,discordjs&perline=10" />
 </p>
 
-<div align="left" height="145">
+<div align="left" height="100">
 
 ## Contributions in the past 30 days
 

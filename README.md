@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=electron,python,anaconda,java,laravel,php,html,css,tailwind,js,react,vue,nodejs,postgres,mysql,fastapi,git,github,linux,ubuntu,docker,arduino,raspberrypi,discord,discordjs&perline=10" />
+  <img src= "https://avatars.githubusercontent.com/u/201048918?s=64&v=4"/>
 </p>
 
 <div align="left" height="80">

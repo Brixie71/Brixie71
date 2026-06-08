@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0EA5E9,100:14B8A6&height=280&section=header&text=JHON%20BRIX%20G.%20BRION&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Quality%20Assurance%20|%20Backend%20Developer%20|%20Internet%20of%20Things%20(IoT)&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0EA5E9,100:14B8A6&height=280&section=header&text=SOFTWARE%20QUALITY%20ASSURANCE%20ANALYST&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JHON%20BRIX%20BRIONe&descAlignY=55&descSize=18" />
 </p>
 
 ## Experience & Technical Exposure

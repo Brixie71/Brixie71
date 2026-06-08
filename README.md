@@ -1,7 +1,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0EA5E9,100:14B8A6&height=280&section=header&text=SOFTWARE%20QUALITY%20ASSURANCE%20ANALYST&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JHON%20BRIX%20BRIONe&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0EA5E9,100:14B8A6&height=280&section=header&text=SOFTWARE%20QUALITY%20ASSURANCE%20ANALYST&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JHON%20BRIX%20BRION&descAlignY=55&descSize=18" />
 </p>
 
 ## Experience & Technical Exposure
